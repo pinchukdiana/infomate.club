@@ -1852,7 +1852,7 @@ boards:
           rss: http://www.performance-lab.ru/feed
         - name: "Блог Сергея Пирогова - Записки Автоматизатора"
           url: https://automation-remarks.com/
-          rss: https://automation-remarks.com/archive.html # need to fix this one too
+          rss: https://automation-remarks.com/rss/index.rss
         - name: "Блог Ольги Назиной"
           url: http://okiseleva.blogspot.com/
           rss: http://okiseleva.blogspot.com/feeds/posts/default
